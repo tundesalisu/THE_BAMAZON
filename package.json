@@ -1,0 +1,24 @@
+{
+  "name": "THE_BAMAZON",
+  "version": "1.0.0",
+  "description": "THE SECOND BAMAZON",
+  "main": "bamazom.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tundesalisu/THE_BAMAZON.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tundesalisu/THE_BAMAZON/issues"
+  },
+  "homepage": "https://github.com/tundesalisu/THE_BAMAZON#readme",
+  "dependencies": {
+    "inquirer": "^6.1.0",
+    "mysql": "^2.16.0"
+  }
+}
